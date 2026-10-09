@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DIV</string>
+    <string name="app_title">DIV</string>
+    <string name="app_subtitle">Ingresá la marca y el modelo para ver dónde están grabados los números.</string>
+    <string name="hint_marca">Marca</string>
+    <string name="hint_modelo">Modelo</string>
+    <string name="btn_buscar">BUSCAR</string>
+    <string name="btn_acerca_de">ACERCA DE</string>
+    <string name="about_title">Acerca de</string>
+    <string name="about_body">Aplicación desarrollada por personal de la DIV para el uso de la base de datos DNRPA ADA en dispositivos móviles. Esta tecnología es de uso experimental y se aplicarán continuas mejoras.\n\nPara sugerencias: lucasmeneses@gmail.com</string>
+    <string name="btn_cerrar">Cerrar</string>
+    <string name="label_motor">Ubicación del motor</string>
+    <string name="label_chasis">Ubicación del chasis</string>
+    <string name="error_marca_invalida">Seleccioná una marca válida de la lista</string>
+    <string name="error_modelo_invalido">Seleccioná un modelo válido de la lista</string>
+    <string name="error_sin_datos">No se encontró información para esa combinación</string>
+</resources>
